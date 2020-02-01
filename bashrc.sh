@@ -13,7 +13,7 @@
 ###############################################################################
 # REQUIRED
 
-# this file absolute location
+# this project dir absolute path (which dir include bashrc.sh)
 DIR_GREEN_BASH=""
 
 ###############################################################################
