@@ -14,7 +14,7 @@
 # REQUIRED
 
 # this file absolute location
-DIR_GREEN_BASH="/home/somla/working/green_bash/bashrc.sh"
+DIR_GREEN_BASH="/home/somla/working/green_bash"
 
 ###############################################################################
 # OPTIONAL
