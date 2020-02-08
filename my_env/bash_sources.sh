@@ -1,1 +1,1 @@
-source /home/somla/working/real_private_data/sandbox/bash/bashrc.sh
+source /home/somla/working/rpd/working/sandbox/bash/bashrc.sh
