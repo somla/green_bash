@@ -6,6 +6,12 @@
 ###############################################################################
 # you have to include this file in ~/.bashrc, just take it the last line
 # source <this file absolute location>
+# and add bin path to ~/.profile
+# # set green PATH
+# if [ -d "$HOME/.local/bin" ] ; then
+#     PATH="<green_bash_root_dir>/bin:$PATH"
+# fi
+
 # and fill the the varibles below
 
 # if you fill a boolean variable, yes is true otherwise false
